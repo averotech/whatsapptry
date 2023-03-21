@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laravel/laravel',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '466c0e8d9e39f402f1799ee443218cc4fd983eb2',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -92,8 +92,8 @@
             'dev_requirement' => false,
         ),
         'codedge/laravel-selfupdater' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'reference' => 'c91e833050fc7de52d622c1d2b60c88408bb7e91',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codedge/laravel-selfupdater',
@@ -569,8 +569,8 @@
             'dev_requirement' => false,
         ),
         'joedixon/laravel-translation' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'reference' => 'bf7ff4765028aab6d8607c1facae6bf13c3f9faf',
             'type' => 'library',
             'install_path' => __DIR__ . '/../joedixon/laravel-translation',
@@ -638,9 +638,9 @@
             'dev_requirement' => false,
         ),
         'laravel/laravel' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '466c0e8d9e39f402f1799ee443218cc4fd983eb2',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -818,8 +818,8 @@
             'dev_requirement' => false,
         ),
         'mobidonia/laravel-dashboard-installer' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
             'reference' => '7373b88a1d3888bdd8065d082b2f6dd13f3bd2d9',
             'type' => 'library',
             'install_path' => __DIR__ . '/../mobidonia/laravel-dashboard-installer',
